@@ -3,7 +3,10 @@
   "version": "0.0.2",
   "homepage": "https://github.com/chenweiyj/zoom.js",
   "description": "Bower support for zoom.js (Medium's Image Zoom for jQuery)",
-  "main": "[css/zoom.css,js/zoom.js]",
+  "main": [
+    "css/zoom.css",
+    "js/zoom.js"
+  ],
   "moduleType": [
     "globals"
   ],
